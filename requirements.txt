@@ -1,0 +1,6 @@
+conda install -c anaconda dill
+conda install -c anaconda pathlib2
+conda install -c anaconda psutil
+
+conda config --add channels conda-forge
+conda install mdanalysis
